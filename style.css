@@ -1,0 +1,52 @@
+.nav {
+  display: flex;
+  color: rgba(0,0,0,0.87);
+  justify-content: flex-end;
+  align-items: flex-start;
+  font-family: arial, sans serif;
+}
+
+.icone {
+  width: 60px;
+  height: 60px;
+  font-size: 20px;
+  padding: 16px;
+  display: inline-block;
+  color: black;
+}
+
+.item {
+  font-size: 13px;
+  display: inline-block;
+  align-content: flex-start;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.middle
+{
+	width: 30px;
+	height: 30px;
+	border: 2px solid red;
+}
+
+.carres
+{
+	opacity: .55;
+}
+
+.carres:hover
+{
+	opacity: 1;
+}
+.right
+{
+	border: 2px solid red;
+	font-size: 15px;
+}
+
+.left
+{
+	border: 2px solid red;
+
+}
